@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CompassViewStyle">
+        <attr name="radius" format="dimension" /> <!--罗盘半径-->
+        <attr name="short_dash" format="dimension" /> <!--罗盘外圈短辐射线的长度-->
+        <attr name="long_dash" format="dimension" />  <!--罗盘外圈长辐射线的长度-->
+        <attr name="text_size" format="dimension" />  <!--罗盘上文字的尺寸-->
+    </declare-styleable>
+</resources>
